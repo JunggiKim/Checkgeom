@@ -1,0 +1,35 @@
+###
+### GET request to example server
+POST https://rnbkfgmrvl.execute-api.ap-northeast-2.amazonaws.com/Prod/login
+Content-Type: application/json
+
+{
+  "userId" : "kjg3"
+}
+
+###
+POST https://rnbkfgmrvl.execute-api.ap-northeast-2.amazonaws.com/Prod/signup
+Content-Type: application/json
+
+{
+  "userId" : "kjg"
+}
+
+###
+POST https://rnbkfgmrvl.execute-api.ap-northeast-2.amazonaws.com/Prod/bookInterest
+Content-Type: application/json
+
+{
+  "userId" :  "kjg",
+  "title" : "test",
+  "libraryType" :  "ALL",
+  "explanation" : "test"
+}
+
+###
+###
+GET https://rnbkfgmrvl.execute-api.ap-northeast-2.amazonaws.com/Prod/bookInterest?userId=kjg
+
+
+###
+

@@ -1,0 +1,10 @@
+{
+  "userId" : "kjg",
+  "bookInterestList" : [
+    {
+      "title" : "first",
+      "libraryType" :  "전체",
+      "explanation" : "처음 테스트 설명임"
+    }
+  ]
+}
