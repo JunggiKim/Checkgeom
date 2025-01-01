@@ -13,5 +13,6 @@
 
 <p> 간단하게 흐름을 표시 해 보는 aws 아키텍처 흐름입니다. </p>
 
-![image](https://github.com/user-attachments/assets/c7ceded9-9736-477b-816e-d139abdf0fe5)
+![image](https://github.com/user-attachments/assets/cdc2aac3-540f-4dae-ae58-af76af5a8335)
+
 
