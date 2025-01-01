@@ -1,4 +1,4 @@
-서비스 URL : http://www.checkgeom.com/
+서비스 URL : http://www.checkgeom.com
 
 
 <p>제가 사용 할 수있는 전자도서관들을 각각의 웹사이트에서 검색하는 것이 불편해 하나의 웹사이트에서 
