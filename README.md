@@ -14,6 +14,7 @@
 ### 화면 구성
 
 <p>검색과 로그인을 하기 전 첫 화면입니다. </p>
+
 ![image](https://github.com/user-attachments/assets/dbe08381-9441-4c9d-9266-a35147a955de)
 
 
