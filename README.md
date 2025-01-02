@@ -2,11 +2,11 @@
 
 <div align="center">
  
-### 서비스 URL : http://www.checkgeom.com 
+## 서비스 URL : http://www.checkgeom.com 
 
 <br/>
 
-### 프로젝트 소개 
+## 프로젝트 소개 
 
 <br/>
 <p> 제가 사용할 수 있는 전자도서관들을 각각의 웹사이트에서 검색하는 것이 불편해 하나의 웹사이트에서 
@@ -15,7 +15,7 @@
 
 <br />
 
-### 화면 구성 
+## 화면 구성 
 
 <br/>
 
