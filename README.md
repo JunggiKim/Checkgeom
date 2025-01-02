@@ -3,19 +3,6 @@
 <div align="center">
 
 
-
-
-
-다음과 같은 내용을 작성할 수 있습니다.
-- 프로젝트 소개
-- 프로젝트 화면 구성 또는 프로토 타입
-- 프로젝트 API 설계
-- 사용한 기술 스택
-- 프로젝트 아키텍쳐
-- 기술적 이슈와 해결 과정
-- 프로젝트 팀원
-
-
 ### 프로젝트 소개 
 
 <p> 제가 사용 할 수 있는 전자도서관들을 각각의 웹사이트에서 검색하는 것이 불편해 하나의 웹사이트에서 
@@ -23,9 +10,11 @@
 </p>
 <br />
 
-> 화면 구성과 프로토 타입 중 원하는 것을 사용해주세요.
-
 ### 화면 구성
+
+검색과 로그인을 하기 전 첫 화면입니다.
+![image](https://github.com/user-attachments/assets/dbe08381-9441-4c9d-9266-a35147a955de)
+
 
 <p>"스프링" 으로 검색을 한 경우 아래와 같이 각각의 도서관들의 검색 결과가 나온다. </p> <br/>
 <p>오른쪽에는 내가 관심도서로 등록한 도서들의 목록들이 나온다.</p>
@@ -36,8 +25,9 @@
 
 
 ## ⚙ 기술 스택
+### dev
 <div>
-Kotlin , Spring-Cloud_Function , JPA , Node , React 
+Kotlin , JPA , Spring-Cloud-Function , Node , React 
 </div>
 
 ### Infra
@@ -57,11 +47,11 @@ Lambda , EC2 , AWS-SAM
 ![image](https://github.com/user-attachments/assets/cdc2aac3-540f-4dae-ae58-af76af5a8335)
 
 <br />
-
-<!--> ## 🤔 기술적 이슈와 해결 과정
-<!-->- Lambda 콜드스타트시 동적 IP활당으로 인한 MySQL 복수의 커넥션 점유
+ 
+<!--> ## 🤔 기술적 이슈와 해결 과정  -->
+<!-->- Lambda 콜드스타트시 동적 IP활당으로 인한 MySQL 복수의 커넥션 점유 -->
       
-<!-->- Web scraping 너무 늦은 응답시간 
+<!-->- Web scraping 너무 늦은 응답시간  -->
 
 
 <br />
