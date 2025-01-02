@@ -58,10 +58,9 @@ Lambda , EC2 , RDS , GitHub Actions , AWS-SAM
 <br />
  
 ## 🤔 기술적 이슈와 해결 과정  
-[<!-- Lambda 콜드스타트시 동적 IP활당으로 인한 MySQL 복수의 커넥션 점유 -->]
 (https://kjg-steady.tistory.com/529)
+<!-- Lambda 콜드스타트시 동적 IP활당으로 인한 MySQL 복수의 커넥션 점유 -->
 
-<br />
 
 
 
