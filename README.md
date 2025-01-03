@@ -34,10 +34,18 @@
 
 ## 아키텍쳐
 
-<p> 간단하게 흐름을 표시 한 AWS 아키텍처 흐름입니다.
+<p> 간단하게 흐름을 표시 한 Infra AWS 아키텍처 흐름입니다.
 비용 절감을 가장 우선시 한 아키텍처입니다. 모든 백 엔드는 서버리스로 만들었습니다. </p>
 
 ![image](https://github.com/user-attachments/assets/e96445fc-590d-45e1-bee1-18b4128e304e)
+
+<br/>
+<p> Checkgeom 의 백엔드 Applications architecture 입니다.
+   기존 Layered Architecture 에서 Service 와 Infrastructure 사이에 Implementation 를 추가 했습니다.
+  Implementation은 상세 구현 함수만을 가지고있고 Service 가 퍼사드 가되어서 Implementation 의존해 사용하는 방식으로 설계했습니다.
+ </p>
+
+![image](https://github.com/user-attachments/assets/7b7b74ca-62be-4158-919a-33c613d53d70)
 
 
 ## ⚙ 기술 스택
