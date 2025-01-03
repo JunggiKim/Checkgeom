@@ -50,7 +50,7 @@ Lambda , EC2 , RDS , GitHub Actions , AWS-SAM
 ## 아키텍쳐
 
 <p> 간단하게 흐름을 표시 한 AWS 아키텍처 흐름입니다.
-비용 절감을 가장 우선시 한 아키텍처입니다. 모든 백 엔드는 Lambda를 기반으로 만들었습니다. </p>
+비용 절감을 가장 우선시 한 아키텍처입니다. 모든 백 엔드는 서버리스로 만들었습니다. </p>
 
 ![image](https://github.com/user-attachments/assets/e96445fc-590d-45e1-bee1-18b4128e304e)
 
