@@ -40,16 +40,16 @@
 ![image](https://github.com/user-attachments/assets/e96445fc-590d-45e1-bee1-18b4128e304e)
 
 <br/>
-<p> Checkgeom 의 백엔드 Applications architecture 입니다.
-   기존 Layered Architecture 에서 Service 와 Infrastructure 사이에 Implementation 를 추가 했습니다.
+<p> Checkgeom 의 백엔드 Applications architecture 입니다. 기존 Layered Architecture 에서 Service 와 Infrastructure 사이에 Implementation 를 추가 했습니다. <br/>
   Implementation은 상세 비즈니스 로직 함수만을 가지고 있고 Service 가 퍼사드 가되어서 Implementation 의존해 사용하는 방식으로 설계했습니다. <br/>
+ Domain은 어떤 의존성도 가지지 않고 Service 와 Implementation 만 Doamin의 의존성을 가질 수 있습니다. <br/>
  architecture 규칙은 코드의 재활용성을 위해 Implementation 만 같은 Layer의 의존을 허용 하고 다른 Layer는 하위의 Layer만 의존을 허용하는 것으로 정했습니다.  
  </p>
 
 ![image](https://github.com/user-attachments/assets/7b7b74ca-62be-4158-919a-33c613d53d70)
 
 
-## ⚙ 기술 스택
+## 기술 스택
 ### dev
 <div>
 Kotlin , JPA , Spring-Cloud-Function , JOOQ ,  Node , React 
@@ -63,7 +63,7 @@ Lambda , EC2 , RDS , Docker , GitHub Actions , AWS-SAM
 
 <br />
  
-## 🤔 기술적 이슈 및 레이어 규칙 
+## 기술적 이슈
 (https://kjg-steady.tistory.com/529)   <br/>
 <a href= "https://github.com/spring-cloud/spring-cloud-function/pull/1199"> Spring-Cloud-Function 오픈소스 기여</a>
 <!-- Lambda 콜드스타트시 동적 IP활당으로 인한 MySQL 복수의 커넥션 점유 -->
