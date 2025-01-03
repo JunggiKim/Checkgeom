@@ -23,9 +23,9 @@
 ![image](https://github.com/user-attachments/assets/dbe08381-9441-4c9d-9266-a35147a955de)
 
 
-<p>"스프링" 으로 검색을 하면 아래와 같이 각각의 도서관들의 검색 결과가 나옵니다. </p> <br/>
-
-<p>오른쪽에서 관심도서로 등록 가능하고 내가 관심도서로 등록한 도서들의 목록들이 나옵니다.</p>
+<p>"로그인을 하고 스프링" 으로 검색을 하면 아래와 같이 각각의 도서관들의 검색 결과가 나오고.
+오른쪽에서 관심도서로 등록 가능하고 내가 관심도서로 등록한 도서들의 목록들이 나옵니다.
+ </p> 
 
 ![image](https://github.com/user-attachments/assets/286231c1-849e-473f-ba6d-61529fc5c648)
 ![image](https://github.com/user-attachments/assets/69268fad-a5cd-48f8-bee7-eff50aeed4e0)
