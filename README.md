@@ -32,21 +32,6 @@
 
 
 
-## ⚙ 기술 스택
-### dev
-<div>
-Kotlin , JPA , Spring-Cloud-Function , Node , React 
-</div>
-
-### Infra
-<div>
-Lambda , EC2 , RDS , Docker , GitHub Actions , AWS-SAM 
-</div>
-
-
-
-<br />
-
 ## 아키텍쳐
 
 <p> 간단하게 흐름을 표시 한 AWS 아키텍처 흐름입니다.
@@ -55,9 +40,21 @@ Lambda , EC2 , RDS , Docker , GitHub Actions , AWS-SAM
 ![image](https://github.com/user-attachments/assets/e96445fc-590d-45e1-bee1-18b4128e304e)
 
 
+## ⚙ 기술 스택
+### dev
+<div>
+Kotlin , JPA , Spring-Cloud-Function , JOOQ ,  Node , React 
+</div>
+
+### Infra
+<div>
+Lambda , EC2 , RDS , Docker , GitHub Actions , AWS-SAM 
+</div>
+
+
 <br />
  
-## 🤔 기술적 이슈와 해결 과정  
+## 🤔 기술적 이슈 및 레이어 규칙 
 (https://kjg-steady.tistory.com/529)   <br/>
 <a href= "https://github.com/spring-cloud/spring-cloud-function/pull/1199"> Spring-Cloud-Function 오픈소스 기여</a>
 <!-- Lambda 콜드스타트시 동적 IP활당으로 인한 MySQL 복수의 커넥션 점유 -->
