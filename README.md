@@ -40,7 +40,7 @@ Kotlin , JPA , Spring-Cloud-Function , Node , React
 
 ### Infra
 <div>
-Lambda , EC2 , RDS , GitHub Actions , AWS-SAM 
+Lambda , EC2 , RDS , Docker , GitHub Actions , AWS-SAM 
 </div>
 
 
