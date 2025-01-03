@@ -59,8 +59,16 @@ Lambda , EC2 , RDS , Docker , GitHub Actions , AWS-SAM
  
 ## 🤔 기술적 이슈와 해결 과정  
 (https://kjg-steady.tistory.com/529)   <br/>
-<a href= "https://github.com/spring-cloud/spring-cloud-function/pull/1199"> Spring-Cloud-Function 기여</a>
+<a href= "https://github.com/spring-cloud/spring-cloud-function/pull/1199"> Spring-Cloud-Function 오픈소스 기여</a>
 <!-- Lambda 콜드스타트시 동적 IP활당으로 인한 MySQL 복수의 커넥션 점유 -->
+
+
+
+
+
+
+
+
 
 
 
