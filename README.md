@@ -42,7 +42,8 @@
 <br/>
 <p> Checkgeom 의 백엔드 Applications architecture 입니다.
    기존 Layered Architecture 에서 Service 와 Infrastructure 사이에 Implementation 를 추가 했습니다.
-  Implementation은 상세 구현 함수만을 가지고있고 Service 가 퍼사드 가되어서 Implementation 의존해 사용하는 방식으로 설계했습니다.
+  Implementation은 상세 비즈니스 로직 함수만을 가지고 있고 Service 가 퍼사드 가되어서 Implementation 의존해 사용하는 방식으로 설계했습니다. <br/>
+ architecture 규칙은 코드의 재활용성을 위해 Implementation 만 같은 Layer의 의존을 허용 하고 다른 Layer는 하위의 Layer만 의존을 허용하는 것으로 정했습니다.  
  </p>
 
 ![image](https://github.com/user-attachments/assets/7b7b74ca-62be-4158-919a-33c613d53d70)
