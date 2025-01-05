@@ -37,7 +37,8 @@
 <p> 간단하게 흐름을 표시 한 Infra AWS 아키텍처 흐름입니다.
 비용 절감을 가장 우선시 한 아키텍처입니다. 모든 백 엔드는 서버리스로 만들었습니다. </p> <br/>
 
-![image](https://github.com/user-attachments/assets/3c655673-a960-4d72-9bc4-1e7b1117c613)
+![image](https://github.com/user-attachments/assets/96826e0d-8590-489e-b23a-45cddab92857)
+
 
 
 <br/>
