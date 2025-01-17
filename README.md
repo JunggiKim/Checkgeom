@@ -37,7 +37,7 @@
 <!-- <p> 간단하게 흐름을 표시 한 Infra AWS 아키텍처 흐름입니다.
 비용 절감을 가장 우선시 한 아키텍처입니다. 모든 백 엔드는 서버리스로 만들었습니다. </p> <br/>  -->
 
-<p>현재는 EC2 로 전환을 한 상태 이고 Lambda와 혼용해 사용하고 있습니다.</p>
+<p>현재는 백엔드를 EC2 ,Lambda 혼용해 사용하고 있습니다.</p>
 
 ![image](https://github.com/user-attachments/assets/96826e0d-8590-489e-b23a-45cddab92857)
 
